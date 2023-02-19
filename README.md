@@ -1,16 +1,4 @@
-# chat_app
+# Chat app
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/92791089/219959198-8cb668f8-67b2-4350-b651-00bd52deaa54.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
